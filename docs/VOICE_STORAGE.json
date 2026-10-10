@@ -1,0 +1,20 @@
+{
+  "apkBytes": 224770116,
+  "voiceUncompressedBytes": 101961414,
+  "voiceStoredBytes": 93319066,
+  "previousUniversalApkBytes": 150944391,
+  "extractedPhonemizerAllocatedKiB": 18822,
+  "archives": {
+    "runtime.tar.bz2": "5fb837e72c9dae6fe06d208dc97f2f6d715f7e5e476a6e36d1549e49c7e209d4",
+    "ryan.tar.bz2": "c546af78b6395b4e7c4ce1ed899438b64426a362f5d4ec5fecd090ded9ad7505"
+  },
+  "packagedAbis": [
+    "arm64-v8a"
+  ],
+  "nativeLibraries": {
+    "lib/arm64-v8a/libonnxruntime.so": 15988224,
+    "lib/arm64-v8a/libsherpa-onnx-jni.so": 4420720
+  },
+  "modelOnnxBytes": 63149198,
+  "additionalInstalledVoicePayloadEstimateBytes": 112592794
+}

@@ -1,0 +1,3 @@
+<resources>
+    <string name="whatsapp_access_description">Ghost checks the WhatsApp chat title, your requested message, and the Send button after a message command. It taps Send once only when they match. It does not read chat history or automate other apps. Disable this service to use drafts only.</string>
+</resources>

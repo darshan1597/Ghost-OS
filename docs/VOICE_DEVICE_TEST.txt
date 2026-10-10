@@ -1,0 +1,16 @@
+Airplane=1
+Wifi is disabled
+Wifi scanning is always available
+INSTRUMENTATION_RESULT: stream=neural_ready {ready=true, loads=1, initializationMs=1372, firstAudioMs=0}
+speech_done elapsed_ms=1910 {ready=true, loads=1, initializationMs=1372, firstAudioMs=718}
+speech_done elapsed_ms=6081 {ready=true, loads=1, initializationMs=1372, firstAudioMs=636}
+speech_done elapsed_ms=1003 {ready=true, loads=1, initializationMs=1372, firstAudioMs=73}
+interrupt_pass
+rapid_commands_pass loads=1
+generated_greeting_pass (no supplied recording)
+android_fallback_selection_pass
+missing_model_fallback_pass
+vosk_service_and_coordinated_reply_pass
+background_listening_service_pass (spoken wake accuracy requires human check)
+
+INSTRUMENTATION_CODE: -1
